@@ -80,15 +80,17 @@ Goal:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE 
 
 
-```
-<p align="center"> <img src="https://raw.githubusercontent.com/Kkpunchihevage/Kkpunchihevage/output/snake.svg"/> </p>
-```
+## 📊 Contribution Overview
 
----
+<p align="center">
+<img src="https://ghchart.rshah.org/00f7ff/Kkpunchihevage" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkpunchihevage&theme=tokyo-night&hide_border=true"/>
+</p>
 # 🏆 ACHIEVEMENT MINDSET
 
 ✔ Clean code thinking  
