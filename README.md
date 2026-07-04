@@ -84,9 +84,7 @@ Goal:
 
 
 ```
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kkpunchihevage/Kkpunchihevage/output/snake.svg"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Kkpunchihevage/Kkpunchihevage/output/snake.svg"/> </p>
 ```
 
 ---
