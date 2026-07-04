@@ -1,4 +1,4 @@
-name: AI OS v3 Snake Engine
+name: Generate Snake
 
 on:
   schedule:
@@ -10,15 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Kkpunchihevage
           outputs: dist/snake.svg
 
-      - name: Deploy Snake
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
