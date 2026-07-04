@@ -1,79 +1,181 @@
-<!-- ================= AI OS v3 BOOT ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:1e3a8a&height=200&text=AI%20OS%20v3.0%20%7C%20Kkpunchihevage&fontSize=38&fontColor=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=260&section=header&text=Kkpunchihevage&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=58"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+AI+Developer+Kernel...;Loading+Full+Stack+Engine...;Injecting+Neural+Modules...;System+Fully+Operational+✔"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Exploring+AI+%26+Modern+Web+Systems;Building+Scalable+Full+Stack+Apps;Focused+on+Real+World+Tech+Impact"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kkpunchihevage&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/Kkpunchihevage?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🖥️ SYSTEM TERMINAL
+# 👨‍💻 ABOUT ME
 
-```txt
-[AI OS v3 BOOT SEQUENCE]
-
-[OK] Kernel Loaded
-[OK] GitHub API Connected
-[OK] Developer Profile Synced
-[RUN] Full Stack Engine Active
-[RUN] AI Learning Module Enabled
-[RUN] System Design Training ON
-
-STATUS: STABLE ⚡
-MODE: DEVELOPER / AI BUILDER
-
-
-👤 USER CORE PROFILE
-User: Kkpunchihevage
+```yaml
+Name: Kkpunchihevage
 
 Role: Software Engineering Undergraduate
 
-System Identity:
-  - Full Stack Developer
-  - AI System Builder
-  - Backend Architect (Learning)
+Mindset:
+  - Problem Solver
+  - System Builder
+  - Continuous Learner
 
-Current Objective:
-  Build scalable, production-grade software systems
+Interests:
+  - AI Systems & LLM Applications
+  - Scalable Backend Architectures
+  - Modern Web UI/UX Engineering
+  - Cloud-Native Applications
 
-Thinking Mode:
-  Problem → Design → Build → Optimize
+Goal:
+  Build intelligent, production-ready software systems
+```
 
+---
 
-⚡ ACTIVE TECH MODULES
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,spring,mysql,mongodb,docker,git,github,html,css,tailwind,vscode"/> </p>
-🚀 LIVE DEVELOPMENT PIPELINE
-🤖 AI Integration (LLMs + APIs + automation systems)
-🌐 Modern Full Stack Apps (React + Node + Spring Boot)
-⚙️ Microservices Architecture
-☁️ Deployment & Cloud Basics (Docker, Vercel)
-📊 System Design Fundamentals
-🧠 Real-world SaaS thinking
+# ⚡ CURRENT TECH FOCUS (IMPORTANT)
 
-📊 SYSTEM DASHBOARD
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kkpunchihevage&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kkpunchihevage&theme=tokyonight"/> </p>
-📈 SIGNAL FLOW GRAPH
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkpunchihevage&theme=tokyo-night"/> </p>
-🐍 VISUAL ENGINE (SNAKE MODULE)
+🔥 AI Integration in Web Apps (LLMs, APIs, automation)  
+⚙️ Backend Engineering (Spring Boot, Node.js microservices)  
+🌐 Modern Frontend (React + Next.js + performance optimization)  
+☁️ Cloud & Deployment (Docker, CI/CD, Vercel, AWS basics)  
+📊 System Design fundamentals for scalable applications  
+🧠 Learning how real-world SaaS products are built  
 
-⚠️ Requires GitHub Actions (same workflow as v2)
+---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Kkpunchihevage/Kkpunchihevage/output/snake.svg"/> </p>
+# 🧰 TECH STACK
 
+<p align="center">
 
-🎯 SYSTEM TASKS
-[✓] AI OS v3 Installed
-[✓] GitHub Profile Active
-[✓] Full Stack Learning Started
-[ ] Build AI SaaS Product
-[ ] Master System Design
-[ ] Secure Internship
-[ ] Contribute to Open Source
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,spring,mysql,mongodb,firebase,docker,git,github,html,css,tailwind,vscode"/>
 
-🌐 NETWORK INTERFACE
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge"/> </a> </p>
-💬 SYSTEM WISDOM
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/> </p>
+</p>
+
+---
+
+# 📊 GITHUB STATS
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkpunchihevage&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kkpunchihevage&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkpunchihevage&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE (FIXED)
+
+### 👉 IMPORTANT (THIS MAKES IT WORK)
+
+You MUST enable GitHub Actions.
+
+Create file:
+
+```
+.github/workflows/snake.yml
+```
+
+Paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Kkpunchihevage
+          outputs: dist/snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then in README:
+
+```
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kkpunchihevage/Kkpunchihevage/output/snake.svg"/>
+</p>
+```
+
+---
+
+# 🏆 ACHIEVEMENT MINDSET
+
+✔ Clean code thinking  
+✔ Real-world problem solving  
+✔ System design awareness  
+✔ AI-first development mindset  
+✔ Focus on scalable software  
+
+---
+
+# 🎯 2026 ROADMAP
+
+- 🚀 Build 3 production-grade full stack systems  
+- 🤖 Create AI-powered real-world application  
+- ☁️ Learn deployment + cloud architecture deeply  
+- 📚 Master React + Spring Boot ecosystem  
+- 💼 Secure internship in software engineering  
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 DEV QUOTE
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌌 FOOTER
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+</p>
