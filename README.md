@@ -82,14 +82,10 @@ Goal:
 
 
 
-## 📊 Contribution Overview
+## 📅 Contribution Calendar
 
 <p align="center">
 <img src="https://ghchart.rshah.org/00f7ff/Kkpunchihevage" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkpunchihevage&theme=tokyo-night&hide_border=true"/>
 </p>
 # 🏆 ACHIEVEMENT MINDSET
 
