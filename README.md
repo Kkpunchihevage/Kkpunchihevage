@@ -80,47 +80,8 @@ Goal:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE (FIXED)
+# 🐍 CONTRIBUTION SNAKE 
 
-### 👉 IMPORTANT (THIS MAKES IT WORK)
-
-You MUST enable GitHub Actions.
-
-Create file:
-
-```
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Kkpunchihevage
-          outputs: dist/snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then in README:
 
 ```
 <p align="center">
